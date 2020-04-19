@@ -1,11 +1,11 @@
 body {
-    color: #cecece;
+    color: #0f0f0f;
 }
 
 
 /* Main background */
 ._4sp8 {
-    background: linear-gradient(to bottom, rgba(154, 166, 202, .82) 0%, rgba(255, 255, 255, .4) 10%), url(https://source.unsplash.com/1920x1080/?natural%20wonders&beautifull
+    background: linear-gradient(to bottom, rgba(154, 166, 202, .82) 0%, rgba(255, 255, 255, .4) 10%), url(https://source.unsplash.com/1920x1080/?instruments
 ) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -15,7 +15,7 @@ body {
 /*                              Background scaling added by     Kirk Clemons     */
 /* Header Name Info */
 ._673w {
-    background: linear-gradient(to right, rgba(31, 31, 31, 0.8), rgba(31, 31, 31, 0.8), rgba(31, 31, 31, 0.6), rgba(31, 31, 31, 0.6), rgba(31, 31, 31, 0.6));
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0));
 }
 
 ::-webkit-scrollbar {
@@ -479,4 +479,22 @@ a._4ce_ {
 }
 ._497p {
     color: #ffffff;
+}
+._3tkv {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-top: 14px;
+    background: #ffffff00;
+}
+._1mj {
+    direction: ltr;
+    text-align: left;
+    color: #e2e2e2;
+}._2kt ._3xsd {
+    color: rgb(146, 146, 146);
+    font-weight: bold;
+}._1ht6 {
+    color: #191919;
+}._1ht3 ._1htf {
+    color: #1c1e21;
 }

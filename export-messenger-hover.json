@@ -11,7 +11,7 @@
 
 /*unread color*/
 ._1ht3._1ht1 {
-    background-color: rgba(0, 132, 255, .2);
+    background-color: rgba(0, 0, 0, 0);
     -webkit-transition: background-color .5s
 }
 /*non icon stuff*/
